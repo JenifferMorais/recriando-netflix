@@ -1,2 +1,2 @@
 # recriando-netflix
-Recriando interface da Netflix utilizando HTML, CSS e JavaScript.
+Recriando interface da Netflix utilizando HTML, CSS, JavaScript e JQuery.
