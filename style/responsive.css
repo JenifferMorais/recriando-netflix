@@ -15,4 +15,9 @@
   .descricao{
     width: 50%;
   }
+
+  .filme-principal{
+    height:500px;    
+  
+  }
 }
